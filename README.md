@@ -6,3 +6,4 @@ cp 路径/backup.ps1 .
 git add backup.ps1
 git commit -m "Add backup script"
 git push
+
